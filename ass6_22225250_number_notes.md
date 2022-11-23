@@ -8,4 +8,3 @@ Submit your work via Blackboard by the deadline (today at 17:05), following the 
 
 2)A new directory called thesis was set up as per instructions and the files from the previous practical was added to it
 
-3)
